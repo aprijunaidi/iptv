@@ -1,4 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo.png?v=10.5.15" group-title="Indonesia", CNN Indonesia
-http://live.cnnindonesia.com/livecnn/cnn_live_tv3.sdp/playlist.m3u8
+#EXTINF:-1,BALI TV
+http://edge.telin.swiftserve.com/live/sejXc8RhId_livetv-sbr/0e3e49d9f128/chunklist.m3u8?stime=20160701040000&etime=20160701080000&encoded=0fb006af1573c7192f60c&
 
+#EXTINF:-1, CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/cnn_live_tv3.sdp/playlist.m3u8
