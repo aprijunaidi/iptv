@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTINF:-1 ,TVRI Nasional 
-http://118.97.50.107:80/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-#EXTINF:-1 ,TVRI World 
-http://ott.TVri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
-#EXTINF:-1 ,TVRI Sport
-http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+
+#Local Channel
+#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_cnnindonesia_big1.png" group-title="Local Channel",CNN Indonesia (Server 2)
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
