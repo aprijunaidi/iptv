@@ -1,0 +1,5 @@
+#EXTM3U
+
+#Local Channel
+#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_cnnindonesia_big1.png" group-title="Local Channel",CNN Indonesia (Server 2)
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
